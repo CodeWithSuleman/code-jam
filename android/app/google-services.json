@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55525739577",
+    "project_id": "code-jam-a0903",
+    "storage_bucket": "code-jam-a0903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55525739577:android:3eed67cad211bb551451e8",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvJf6NVpVh6fuubwt_hk_yoixLRTdF1jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
